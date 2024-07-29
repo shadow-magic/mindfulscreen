@@ -1,1 +1,3 @@
-# mindfulscreen
+# MindfulScreen
+
+MindfulScreen is a Wayland mindfulness application. Its purpose is to reduce screen usage and increase productivity by increasing mindfulness. Upon wake-up an intention is requested (or something else) as well as a time for completing that activity in order to use other apps. When the timer runs out the computer is locked again. There may also be screen time statistics in the future.
